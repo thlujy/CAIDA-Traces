@@ -1,7 +1,10 @@
 +--------------------------------------------------+
 CAIDA traces used in Greenmetrics 2016 paper titiled
 "Toward Power-Efficient Backbone Routers"
+The traces are downloaded from the following link
+https://data.caida.org/datasets/
 +--------------------------------------------------+
+The traces details are shown as follows.
 -----------------------------------------------------------------
 -----------------------------------------------------------------
 #       Date            Time        Location    Direction   Rate
